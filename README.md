@@ -138,4 +138,4 @@ deterministic_free_solver.py
 requirements_vllm.txt
 ```
 
-Do not commit local model caches, `.venv`, or large temporary logs/checkpoints unless required by the instructor.
+Do not commit local model caches, `.venv`, or large temporary logs/checkpoints unless required(if needed)
