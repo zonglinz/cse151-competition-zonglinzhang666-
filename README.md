@@ -125,9 +125,9 @@ requirements.txt
 Reference outputs:
 
 ```text
-submissions/submission.csv
-submissions/submission_v106_jump_hardvote_probe.csv
-submissions/submission_v121_mcqelim26000_letterchanges_on_v106.csv
+submission/submission.csv
+submission/submission_v106_jump_hardvote_probe.csv
+submission/submission_v121_mcqelim26000_letterchanges_on_v106.csv
 ```
 
 Optional dependency file:
