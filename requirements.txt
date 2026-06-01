@@ -1,0 +1,13 @@
+# Recommended GPU inference stack for Qwen/Qwen3-4B-Thinking-2507
+torch
+transformers>=4.51.0
+accelerate>=0.34.0
+sentencepiece
+protobuf
+safetensors
+vllm>=0.8.5
+bitsandbytes>=0.43.0
+
+# Optional, only for local public-set scoring with starter judger.py
+sympy
+antlr4-python3-runtime==4.11.*

@@ -1,0 +1,8 @@
+# Install in a CUDA-enabled environment.
+torch
+transformers>=4.51.0
+accelerate
+vllm>=0.8.5
+sentencepiece
+safetensors
+protobuf
