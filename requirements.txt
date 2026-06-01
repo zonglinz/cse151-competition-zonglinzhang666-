@@ -1,0 +1,11 @@
+# Recommended GPU inference stack
+transformers>=4.51.0
+accelerate>=0.34.0
+sentencepiece
+protobuf
+safetensors
+vllm>=0.6.0
+bitsandbytes>=0.43.0
+# Optional, only for local public-set scoring with starter judger.py
+sympy
+antlr4-python3-runtime
