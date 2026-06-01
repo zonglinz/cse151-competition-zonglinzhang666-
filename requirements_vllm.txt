@@ -1,6 +1,0 @@
-# Install in a CUDA-enabled environment. Pin versions only if your platform needs it.
-torch
-transformers>=4.51.0
-accelerate
-vllm>=0.8.5
-sentencepiece
